@@ -10,7 +10,7 @@
 
 title: Alex                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: Hacker Apprentice  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -18,7 +18,7 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'protocol://domain'
+url: 'alexpacket.github.io'
 
 author: Alex                  # change to your full name
 
@@ -32,14 +32,14 @@ twitter:
 
 social:
   name: Alex                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+ # email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/alexpacket      # change to your twitter homepage
     - https://github.com/alexpacket       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+     - https://www.linkedin.com/in/alcortes-rivera
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
