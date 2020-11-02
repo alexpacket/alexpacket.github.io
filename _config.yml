@@ -25,10 +25,10 @@ author: Alex                  # change to your full name
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: github_username             # change to your github username
+  username: alexpacket             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: alexpacket            # change to your twitter username
 
 social:
   name: Alex                  # it will shows as the copyright owner in Footer
