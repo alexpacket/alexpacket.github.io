@@ -8,9 +8,9 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Alex                          # the main title
+title: Chirpy                          # the main title
 
-tagline: Hacker Apprentice  # it will display as the sub-title
+tagline: A text-focused Jekyll theme.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -18,17 +18,17 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'alexpacket.github.io'
+url: 'protocol://domain'
 
-author: Alex                  # change to your full name
+author: your_full_name                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: alexpacket             # change to your github username
+  username: github_username             # change to your github username
 
 twitter:
-  username: alexpacket            # change to your twitter username
+  username: twitter_username            # change to your twitter username
 
 social:
   name: your_full_name                  # it will shows as the copyright owner in Footer
@@ -39,7 +39,7 @@ social:
     - https://github.com/username       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-     - https://www.linkedin.com/in/username
+    # - https://www.linkedin.com/in/username
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
